@@ -25,5 +25,3 @@ for pwd in range(numeros) :
     for c in range(tamanho):
         password += random.choice(caracteres)
     print(password)
-
-    

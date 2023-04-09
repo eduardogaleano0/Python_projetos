@@ -1,6 +1,6 @@
-#Olá e bem-vindo ao projeto de gerador de senhas em Python! Este é um pequeno projeto que permite gerar senhas aleatórias usando o módulo random do Python. 
-# A ideia é permitir que você possa gerar senhas fortes e seguras com facilidade e rapidez. O programa é simples de usar. Basta fornecer a quantidade de senhas que deseja gerar e o comprimento de cada uma delas. 
-# O programa irá gerar senhas aleatórias compostas por letras maiúsculas e minúsculas, números e caracteres especiais.
+## Olá e bem-vindo ao projeto de gerador de senhas em Python!
+## Este é um pequeno projeto que permite gerar senhas aleatórias usando o módulo random do Python.
+## A ideia é permitir que você possa gerar senhas fortes e seguras com facilidade e rapidez.
 
 # Importando a biblioteca Random, que será utilizada para gerar as senhas aleatórias
 import random

@@ -24,7 +24,7 @@ tamanho = int(tamanho)
 for pwd in range(numeros) :
 # Cria uma variável vazia para armazenar a senha gerada
     password = ''
-# Loop que adiciona tamanho caracteres aleatórios à senha
+# Loop que adiciona o tamanho de caracteres aleatórios à senha
     for c in range(tamanho):
 # Adiciona um caractere aleatório à senha
         password += random.choice(caracteres)

@@ -29,4 +29,4 @@ for pwd in range(numeros) :
 # Adiciona um caractere aleatório à senha
         password += random.choice(caracteres)
 # Imprime a senha gerada na tela
-    print(password)
+    print("A senha gerada é: ", password)

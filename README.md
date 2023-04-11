@@ -1,4 +1,3 @@
-
 <h1 align="center">:file_cabinet: Projetos de aprendizado em Python</h1>
 
 ## :memo: Descrição

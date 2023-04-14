@@ -8,4 +8,3 @@ Eles foram desenvolvidos como parte do meu aprendizado em Python e, portanto, po
 * <b>Gerador de Senhas </b>: Um projeto simples para gerar senhas fortes e seguras.
 * <b>Conversor de Dólar para Reais </b>: Um programa para conveter Dólares em Reais.
 * <b>Sistema para cálculo de compras</b>: Um programa para realizar cálculos de compras e de troco.
-* <b>Sistema para cálculo de compras</b>: Um programa para realizar cálculos de compras e de troco.

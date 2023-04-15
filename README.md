@@ -6,5 +6,5 @@ Eles foram desenvolvidos como parte do meu aprendizado em Python e, portanto, po
 
 ## :books: Lista de Projetos
 * <b>Gerador de Senhas </b>: Um projeto simples para gerar senhas fortes e seguras.
-* <b>Conversor de moedas </b>: Um programa para conveter o valor de Dólar, Euro e Libra Esterlina para o valor em Reais utilizando a API DA Awesome API.
+* <b>Conversor de moedas </b>: Um programa para conveter o valor de Dólar, Euro e Libra Esterlina para o valor em Reais utilizando a API da Awesome API.
 * <b>Sistema para cálculo de compras</b>: Um programa para realizar cálculos de compras e de troco.

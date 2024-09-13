@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Projetos de aprendizado em Python</h1>
 
 ## :memo: Descrição
-Este repositório contém alguns dos meus projetos em Python, incluindo scripts, programas, jogos, etc. 
+Este repositório contém alguns dos meus projetos em Python, incluindo scripts, programas, etc. 
 Eles foram desenvolvidos como parte do meu aprendizado em Python e, portanto, podem não estar perfeitamente otimizados ou seguir as melhores práticas em Python.
 
 ## :books: Lista de Projetos
